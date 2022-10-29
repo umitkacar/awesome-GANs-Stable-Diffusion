@@ -8,4 +8,4 @@
 
 - https://github.com/lucidrains/lightweight-gan
 
-- https://arxiv.org/pdf/2112.10752v2.pdf
+- https://arxiv.org/pdf/2112.10752v2.pdf [[CODES]](https://github.com/CompVis/latent-diffusion)
