@@ -7,3 +7,5 @@
 - https://github.com/lucidrains/stylegan2-pytorch
 
 - https://github.com/lucidrains/lightweight-gan
+
+- https://arxiv.org/pdf/2112.10752v2.pdf
