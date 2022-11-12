@@ -14,3 +14,7 @@
 ## YouTube
 
 - https://www.youtube.com/watch?v=AQrMWH8aC0Q
+
+## Course
+
+- https://github.com/amanchadha/coursera-gan-specialization
