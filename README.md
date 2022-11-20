@@ -18,6 +18,7 @@
 
 - https://huggingface.co/runwayml/stable-diffusion-v1-5
 
+- https://laion.ai/blog/laion-5b/
 
 ## YouTube
 
