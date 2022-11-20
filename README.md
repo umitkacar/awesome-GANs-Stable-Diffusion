@@ -10,10 +10,14 @@
 
 - https://arxiv.org/pdf/2112.10752v2.pdf [[CODES]](https://github.com/CompVis/latent-diffusion)
 
+- https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
+
 
 ## YouTube
 
 - https://www.youtube.com/watch?v=AQrMWH8aC0Q
+
+- https://www.youtube.com/watch?v=a4Yfz2FxXiY&list=PLV8yxwGOxvvoQRvx3wSoIrA8l_UwnMD3q
 
 ## Course
 
