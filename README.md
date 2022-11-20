@@ -20,6 +20,8 @@
 
 - https://laion.ai/blog/laion-5b/
 
+- https://github.com/huggingface/diffusers
+
 ## YouTube
 
 - https://www.youtube.com/watch?v=AQrMWH8aC0Q
