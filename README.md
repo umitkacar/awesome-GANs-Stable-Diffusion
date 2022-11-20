@@ -12,6 +12,12 @@
 
 - https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
 
+- https://huggingface.co/blog/annotated-diffusion
+
+- https://huggingface.co/blog/stable_diffusion
+
+- https://huggingface.co/runwayml/stable-diffusion-v1-5
+
 
 ## YouTube
 
