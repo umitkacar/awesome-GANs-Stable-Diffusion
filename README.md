@@ -1,5 +1,7 @@
 # awesome-GANs
 
+- https://github.com/XPixelGroup/BasicSR (Deblur)
+
 - https://www.thispersondoesnotexist.com/
 
 - https://github.com/NVlabs/stylegan2
