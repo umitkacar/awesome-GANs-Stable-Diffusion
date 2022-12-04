@@ -23,8 +23,8 @@
 - https://laion.ai/blog/laion-5b/
 
 - https://github.com/huggingface/diffusers
-
--https://github.com/JinWonjoon/Dr.3D
+ 
+- https://github.com/JinWonjoon/Dr.3D
 
 ## YouTube
 
