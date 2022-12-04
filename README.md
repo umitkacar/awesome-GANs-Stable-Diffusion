@@ -24,6 +24,8 @@
 
 - https://github.com/huggingface/diffusers
 
+-https://github.com/JinWonjoon/Dr.3D
+
 ## YouTube
 
 - https://www.youtube.com/watch?v=AQrMWH8aC0Q
