@@ -1,5 +1,7 @@
 # awesome-GANs
 
+- https://replicate.com/lambdal/stable-diffusion-image-variation
+
 - https://github.com/XPixelGroup/BasicSR (Deblur)
 
 - https://www.thispersondoesnotexist.com/
