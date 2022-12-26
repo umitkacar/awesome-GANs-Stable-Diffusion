@@ -40,6 +40,10 @@
 
 - https://www.youtube.com/watch?v=a4Yfz2FxXiY&list=PLV8yxwGOxvvoQRvx3wSoIrA8l_UwnMD3q
 
+- https://www.youtube.com/watch?v=Jg2ChBGduho
+
+- https://www.youtube.com/watch?v=_BZGtifh_gw
+
 ## Course
 
 - https://github.com/amanchadha/coursera-gan-specialization
