@@ -1,5 +1,7 @@
 # STABLE DIFFUSION
 
+- https://github.com/omerbt/MultiDiffusion
+
 - https://github.com/lllyasviel/ControlNet
 
 - https://github.com/apple/ml-stable-diffusion
