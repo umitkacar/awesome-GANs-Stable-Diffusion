@@ -1,5 +1,9 @@
 # STABLE DIFFUSION
 
+- [SDXL-Lightning: Progressive Adversarial Diffusion Distillation](https://arxiv.org/pdf/2402.13929.pdf)
+
+- https://huggingface.co/papers/2402.13929
+
 - [TryOnDiffusion: A Tale of Two UNets](https://arxiv.org/pdf/2306.08276.pdf)
 
 - https://github.com/omerbt/MultiDiffusion
